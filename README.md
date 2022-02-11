@@ -3,9 +3,9 @@ Project developed using Python programming language for college, on a 3 people g
 
 Simulação de alocação de memória.
 
-1 Passo - cria matriz (x linhas, x colunas)
+1º Passo - cria matriz (x linhas, x colunas)
 
-2 Passo - escolhe uma das opções em que:
+2º Passo - escolhe uma das opções em que:
 
 - Alocação fist fit: estratégia de alocação que encontra o primeiro espaço na memória cujo tamanho seja igual ou maior que o desejado e então realiza a alocação.
 - Alocação best fit: estratégia que busca um espaço disponível que seja o mais adequado para o tamanho requisitado.
@@ -13,7 +13,7 @@ Simulação de alocação de memória.
 - Desalocação: deverá ser informado as coordenadas de início e fim para a desalocação de memória, as coordenadas devem ser válidas.
 
 
-3 Passo - visualização da memória.
+3º Passo - visualização da memória.
 
 ---------------------------------------------------
 
