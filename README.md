@@ -13,7 +13,7 @@ Simulação de alocação de memória.
 - Desalocação: deverá ser informado as coordenadas de início e fim para a desalocação de memória, as coordenadas devem ser válidas.
 
 
-3- Passo visualização da memória.
+3 Passo - visualização da memória.
 
 ---------------------------------------------------
 
